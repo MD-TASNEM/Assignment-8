@@ -1,3 +1,7 @@
+import { FaDownload } from "react-icons/fa";
+import { SiReverbnation } from "react-icons/si";
+
+
 const Header = () => {
   return (
     <>
@@ -24,14 +28,14 @@ const Header = () => {
             <div className="hover:scale-105 transition duration-500">
               <button className="btn btn-active ">
                 <img src="/playstore.png" alt="playstore.jpg" className="h-7" />
-                <p>Google Play</p>
+                <a href="https://play.google.com/">Google Play</a>
               </button>
             </div>
             <div className="hover:scale-105 transition duration-500">
-              <button className="btn btn-active">
+              <p className="btn btn-active">
                 <img src="/app-store.jpg" alt="app-store.jpg" className="h-7" />
-                <p>App Store</p>
-              </button>
+                <a href="https://www.apple.com/app-store/">App Store</a>
+              </p>
             </div>
           </div>
           <div className="flex-1 flex justify-center">
@@ -62,6 +66,7 @@ const Header = () => {
                 29.6M
               </p>
               <p className="text-sm text-gray-300">21% More Than Last Month</p>
+              <FaDownload></FaDownload>
             </div>
 
             <div className="group p-8 rounded-2xl bg-white/10 backdrop-blur-md border border-white/10 shadow-lg hover:shadow-2xl hover:scale-105 transition duration-500">
@@ -70,6 +75,7 @@ const Header = () => {
                 906K
               </p>
               <p className="text-sm text-gray-300">46% More Than Last Month</p>
+              <SiReverbnation></SiReverbnation>
             </div>
 
             <div className="group p-8 rounded-2xl bg-white/10 backdrop-blur-md border border-white/10 shadow-lg hover:shadow-2xl hover:scale-105 transition duration-500">
@@ -78,10 +84,11 @@ const Header = () => {
                 132+
               </p>
               <p className="text-sm text-gray-300">31 More Will Launch</p>
+
             </div>
           </div>
 
-          <div className="absolute -bottom-10 left-1/2 -translate-x-1/2 w-[60%] h-32 bg-white/20 blur-3xl rounded-full opacity-30"></div>
+      
         </div>
       </section>
     </>

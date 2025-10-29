@@ -2,6 +2,7 @@ import { useState, useMemo } from "react";
 import useApps from "../hooks/useApps";
 import AppCard from "../Components/AppCard";
 
+
 const AllApps = () => {
   const { apps = [], loading, error } = useApps(); // apps default empty array
   const [searchTerm, setSearchTerm] = useState("");
@@ -27,8 +28,13 @@ const AllApps = () => {
         <p className="mt-3 text-lg text-indigo-600">Loading apps...</p>
       </div>
     );
+const handleClick = () => {
+  
 
-  // Error State
+  }
+
+
+
   if (error)
     return (
       <div className="text-center mt-20 p-6 bg-red-100 border-l-4 border-red-500 text-red-700">
@@ -82,7 +88,7 @@ const AllApps = () => {
         </div>
 
 
-        <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+        <div onClick={handleClick}  className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
           {filteredApps.length > 0 ? (
             filteredApps.map((app) => (
               <AppCard

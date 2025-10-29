@@ -5,13 +5,13 @@ import AppDetails from "./../Pages/AppDetails";
 import MyInstallation from "./../Pages/MyInstallation";
 import NotFound from "./../Pages/NotFound";
 import MainLayouts from "../assets/Layouts/MainLayouts";
-import Header from "./../Components/Header";
+
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <MainLayouts />,
-    // errorElement: <NotFound />,
+    errorElement: <NotFound />,
     hydrateFallbackElement: <div>Loading...</div>,
     children: [
       {
@@ -24,16 +24,14 @@ const router = createBrowserRouter([
         element: <AllApps />,
       },
       {
-        path: "/AppDetails",
+        path: "/AppDetails/:id",
         element: <AppDetails />,
+        loader: () => fetch("/Data/apps.json"),
       },
+
       {
         path: "/MyInstallation",
         element: <MyInstallation />,
-      },
-      {
-        path: "/Header",
-        element: <Header />,
       },
     ],
   },

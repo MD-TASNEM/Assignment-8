@@ -38,7 +38,7 @@ const Nave = () => {
           </ul>
         </div>
         <Link to="/" className="flex font-bold text-xl">
-          <img src="/public/logo.png" alt="Logo" className="h-9 " />
+          <img src="/logo.png" alt="Logo" className="h-9 " />
           my-apps
         </Link>
       </div>

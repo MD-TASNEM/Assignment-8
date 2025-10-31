@@ -1,16 +1,21 @@
-import { Link, useLoaderData } from "react-router";
+import { Link } from "react-router";
 import AppCard from "../Components/AppCard";
 import Header from "../Components/Header";
-
+import useApps from "../hooks/useApps";
 
 const Home = () => {
-  
-  const products = useLoaderData();
-  const topProduct = products.slice(0, 8);
-  console.log(products);
+  // const handleClick = (appId, appTitle) => {
+
+  //   console.log("ID:", appId);
+  //   navigate(`/AppDetails/${appId}`);
+  // };
+  const { apps = [], loading, error } = useApps();
+
+  const topProduct = apps.slice(0, 8);
+
   return (
     <div>
-      <Header/>
+      <Header />
       <div>
         <h1 className="text-3xl font-bold text-center my-8">Trending Apps</h1>
         <p className="text-center text-gray-600 mb-8">
@@ -18,9 +23,11 @@ const Home = () => {
         </p>
       </div>
 
-      <div onClick={1+1} className="grid  gap-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 p-5">
+      <div className="grid  gap-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 p-5">
         {topProduct.map((product) => (
-          <AppCard key={product.id} product={product}></AppCard>
+          <AppCard key={product.id} product={product}>
+            {/* onClick={() => handleClick(app.id, app.title)} */}
+          </AppCard>
         ))}
       </div>
       <div className="flex justify-center mb-4">

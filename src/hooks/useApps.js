@@ -12,9 +12,10 @@ const useApps = () => {
       try {
         const response = await axios.get("/Data/apps.json");
         setApps(response.data);
+        // console.log("Fetched apps:", response.data);
       } catch (err) {
         setError(err);
-        console.error("Error fetching apps:", err);
+        // console.error("Error fetching apps:", err);
       } finally {
         setLoading(false);
       }

@@ -8,15 +8,15 @@ const formatCount = (num) => {
   return num;
 };
 
-const AppCard = ({ product}) => {
+const AppCard = ({ product, onAppClick }) => { // onAppClick যোগ করুন
   const { image, title, downloads, ratingAvg, id } = product;
 
   return (
     <div
+      onClick={onAppClick} // এটি যোগ করুন
       className="bg-white rounded-xl shadow-lg border border-gray-100 overflow-hidden
                  hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-0.5
                  cursor-pointer flex flex-col"
-
     >
       <div className="w-full h-40 bg-gray-200 flex items-center justify-center relative">
         {image ? (
@@ -35,9 +35,9 @@ const AppCard = ({ product}) => {
           <div className="inline-flex items-center bg-green-100 text-green-700 text-sm font-semibold px-3 py-1 rounded-full">
             <span className="mr-1 text-base leading-none">
               <img
-                src="/public/icon-downloads.png"
+                src="/icon-downloads.png"
                 alt="downloads"
-                className="h-3 "
+                className="h-3"
               />
             </span>{" "}
             <span>{formatCount(downloads)}</span>
@@ -45,7 +45,7 @@ const AppCard = ({ product}) => {
           <div className="inline-flex items-center bg-orange-100 text-orange-600 text-sm font-semibold px-3 py-1 rounded-full">
             <span className="mr-1 text-base leading-none">
               <img
-                src="/public/icon-ratings.png"
+                src="/icon-ratings.png"
                 alt="icon-ratings"
                 className="h-3"
               />

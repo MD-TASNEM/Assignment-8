@@ -1,13 +1,19 @@
 import { useState, useMemo } from "react";
+import { useNavigate } from "react-router"; // নেভিগেশনের জন্য
 import useApps from "../hooks/useApps";
 import AppCard from "../Components/AppCard";
 
-
 const AllApps = () => {
-  const { apps = [], loading, error } = useApps(); // apps default empty array
+  const { apps = [], loading, error } = useApps();
   const [searchTerm, setSearchTerm] = useState("");
+  const navigate = useNavigate();
+  const handleClick = (appId, appTitle) => {
+    // alert(`অ্যালার্ট! আপনি ক্লিক করেছেন: ${appTitle}`);
+    // console.log("ক্লিক করা অ্যাপের ID:", appId);
+    navigate(`/AppDetails/${appId}`); // সঠিক নেভিগেশন
+  };
 
-  // Filter apps based on title or companyName
+  // ফিল্টারিং (অপ্টিমাইজড)
   const filteredApps = useMemo(() => {
     const term = searchTerm.toLowerCase().trim();
     if (!term) return apps;
@@ -15,51 +21,47 @@ const AllApps = () => {
     return apps.filter((app) => {
       const title = (app.title || "").toLowerCase();
       const company = (app.companyName || "").toLowerCase();
-
       return title.includes(term) || company.includes(term);
     });
   }, [apps, searchTerm]);
 
-  // Loading State
-  if (loading)
+  // লোডিং
+  if (loading) {
     return (
       <div className="flex flex-col justify-center items-center h-screen bg-gray-50">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-500"></div>
         <p className="mt-3 text-lg text-indigo-600">Loading apps...</p>
       </div>
     );
-const handleClick = () => {
-  
-
   }
 
-
-
-  if (error)
+  // এরর
+  if (error) {
     return (
-      <div className="text-center mt-20 p-6 bg-red-100 border-l-4 border-red-500 text-red-700">
-        <p className="font-bold text-xl"> Oops! Something went wrong.</p>
-        <p className="mt-2 text-lg">Error: {error.message}</p>
+      <div className="text-center mt-20 p-6 bg-red-100 border-l-4 border-red-500 text-red-700 max-w-2xl mx-auto">
+        <p className="font-bold text-xl">Oops! Something went wrong.</p>
+        <p className="mt-2 text-lg">Error: {error.message || error}</p>
       </div>
     );
-
+  }
 
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-
+        {/* হেডার + সার্চ */}
         <div className="flex flex-col md:flex-row md:justify-between items-start md:items-center mb-10">
           <div>
-            <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 mb-1 md:mb-0">
+            <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900">
               <span className="text-indigo-600">Discover</span> All Apps
             </h1>
-            <p className="text-lg text-gray-600 font-medium">
+            <p className="text-lg text-gray-600 font-medium mt-1">
               Showing{" "}
-              <span className="font-bold text-indigo-600">{filteredApps.length}</span>{" "}
+              <span className="font-bold text-indigo-600">
+                {filteredApps.length}
+              </span>{" "}
               apps {searchTerm && `for "${searchTerm}"`}
             </p>
           </div>
-
 
           <div className="relative w-full md:w-80 mt-6 md:mt-0">
             <input
@@ -67,8 +69,10 @@ const handleClick = () => {
               placeholder="Search apps by title or company..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full py-3 pl-12 pr-4 rounded-full border border-gray-300 text-gray-700 placeholder-gray-500
-                         focus:outline-none focus:ring-4 focus:ring-indigo-200 focus:border-indigo-600 shadow-lg transition duration-150"
+              className="w-full py-3 pl-12 pr-4 rounded-full border border-gray-300
+                         text-gray-700 placeholder-gray-500
+                         focus:outline-none focus:ring-4 focus:ring-indigo-200
+                         focus:border-indigo-600 shadow-lg transition duration-150"
             />
             <svg
               className="absolute top-1/2 left-4 transform -translate-y-1/2 h-5 w-5 text-indigo-500"
@@ -87,19 +91,24 @@ const handleClick = () => {
           </div>
         </div>
 
-
-        <div onClick={handleClick}  className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+        {/* অ্যাপ গ্রিড */}
+        <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
           {filteredApps.length > 0 ? (
             filteredApps.map((app) => (
-              <AppCard
+              <div
                 key={app.id}
-                product={app}
-                className="transition transform duration-300 hover:scale-[1.02] shadow-md hover:shadow-xl rounded-xl"
-              />
+                className="transition transform duration-300 hover:scale-[1.02]
+                           shadow-md hover:shadow-xl rounded-xl cursor-pointer"
+                onClick={() => handleClick(app.id, app.title)} // ক্লিকে নেভিগেট
+              >
+                <AppCard product={app} />
+              </div>
             ))
           ) : (
             <div className="col-span-full py-20 text-center bg-white rounded-xl shadow-xl border-t-4 border-indigo-500">
-              <p className="text-3xl font-bold text-gray-800 mb-2"> No apps found</p>
+              <p className="text-3xl font-bold text-gray-800 mb-2">
+                No apps found
+              </p>
               <p className="text-xl text-gray-500">
                 Try adjusting your search or check your spelling.
               </p>

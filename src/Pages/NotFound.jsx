@@ -10,7 +10,7 @@ export default function NotFound() {
     <div>
       <Nave />
       <div className="text-center items-center justify-center flex flex-col h-screen gap-5">
-        <img src="/public/error-404.png" alt="error-404.png" />
+        <img src="/error-404.png" alt="error-404.png" />
         <p className="text-3xl font-bold">Oops, page not found!</p>
         <p>{error?.statusText || error?.message || "Something went wrong"}</p>
         <NavLink

@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { useNavigate } from "react-router"; // নেভিগেশনের জন্য
+import { useNavigate } from "react-router";
 import useApps from "../hooks/useApps";
 import AppCard from "../Components/AppCard";
 
@@ -8,12 +8,9 @@ const AllApps = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const navigate = useNavigate();
   const handleClick = (appId, appTitle) => {
-    // alert(`অ্যালার্ট! আপনি ক্লিক করেছেন: ${appTitle}`);
-    // console.log("ক্লিক করা অ্যাপের ID:", appId);
-    navigate(`/AppDetails/${appId}`); // সঠিক নেভিগেশন
+    navigate(`/AppDetails/${appId}`);
   };
 
-  // ফিল্টারিং (অপ্টিমাইজড)
   const filteredApps = useMemo(() => {
     const term = searchTerm.toLowerCase().trim();
     if (!term) return apps;
@@ -25,7 +22,6 @@ const AllApps = () => {
     });
   }, [apps, searchTerm]);
 
-  // লোডিং
   if (loading) {
     return (
       <div className="flex flex-col justify-center items-center h-screen bg-gray-50">
@@ -35,7 +31,6 @@ const AllApps = () => {
     );
   }
 
-  // এরর
   if (error) {
     return (
       <div className="text-center mt-20 p-6 bg-red-100 border-l-4 border-red-500 text-red-700 max-w-2xl mx-auto">
@@ -48,7 +43,6 @@ const AllApps = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-        {/* হেডার + সার্চ */}
         <div className="flex flex-col md:flex-row md:justify-between items-start md:items-center mb-10">
           <div>
             <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900">
@@ -91,7 +85,6 @@ const AllApps = () => {
           </div>
         </div>
 
-        {/* অ্যাপ গ্রিড */}
         <div className="grid gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
           {filteredApps.length > 0 ? (
             filteredApps.map((app) => (
@@ -99,7 +92,7 @@ const AllApps = () => {
                 key={app.id}
                 className="transition transform duration-300 hover:scale-[1.02]
                            shadow-md hover:shadow-xl rounded-xl cursor-pointer"
-                onClick={() => handleClick(app.id, app.title)} // ক্লিকে নেভিগেট
+                onClick={() => handleClick(app.id, app.title)}
               >
                 <AppCard product={app} />
               </div>

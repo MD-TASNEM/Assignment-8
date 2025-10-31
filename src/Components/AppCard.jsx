@@ -8,12 +8,12 @@ const formatCount = (num) => {
   return num;
 };
 
-const AppCard = ({ product, onAppClick }) => { // onAppClick যোগ করুন
+const AppCard = ({ product, onAppClick }) => {
   const { image, title, downloads, ratingAvg, id } = product;
 
   return (
     <div
-      onClick={onAppClick} // এটি যোগ করুন
+      onClick={onAppClick}
       className="bg-white rounded-xl shadow-lg border border-gray-100 overflow-hidden
                  hover:shadow-xl transition duration-300 ease-in-out transform hover:-translate-y-0.5
                  cursor-pointer flex flex-col"

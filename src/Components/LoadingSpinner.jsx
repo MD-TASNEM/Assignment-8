@@ -1,4 +1,3 @@
-// components/LoadingSpinner.jsx
 const LoadingSpinner = () => {
   return (
     <div className="fixed inset-0 bg-white bg-opacity-70 flex items-center justify-center z-50">

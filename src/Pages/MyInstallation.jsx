@@ -1,8 +1,7 @@
-// MyInstallation.jsx
 import { useState, useEffect } from "react";
 import { Trash2 } from "lucide-react";
 import { toast, Toaster } from "react-hot-toast";
-import LoadingSpinner from './../Components/LoadingSpinner';
+import LoadingSpinner from "./../Components/LoadingSpinner";
 
 const MyInstallation = () => {
   const [installedApps, setInstalledApps] = useState([]);
@@ -14,7 +13,7 @@ const MyInstallation = () => {
       const apps = JSON.parse(localStorage.getItem("installedApps") || "[]");
       setInstalledApps(sortApps(apps, sortOrder));
       setLoading(false);
-    }, 800); // Simulate loading
+    }, 800);
   }, [sortOrder]);
 
   const sortApps = (apps, order) => {
@@ -65,13 +64,22 @@ const MyInstallation = () => {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {installedApps.map((app) => (
-            <div key={app.id} className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow">
-              <img src={app.image} alt={app.title} className="w-full h-40 object-cover" />
+            <div
+              key={app.id}
+              className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow"
+            >
+              <img
+                src={app.image}
+                alt={app.title}
+                className="w-full h-40 object-cover"
+              />
               <div className="p-4">
                 <h3 className="font-semibold text-lg truncate">{app.title}</h3>
                 <p className="text-sm text-gray-600">{app.companyName}</p>
                 <div className="flex justify-between items-center mt-3">
-                  <span className="text-xs text-gray-500">{app.downloads.toLocaleString()} downloads</span>
+                  <span className="text-xs text-gray-500">
+                    {app.downloads.toLocaleString()} downloads
+                  </span>
                   <button
                     onClick={() => handleUninstall(app.id, app.title)}
                     className="text-red-600 hover:text-red-800 transition"

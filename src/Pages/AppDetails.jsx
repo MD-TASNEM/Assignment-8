@@ -1,8 +1,15 @@
-// AppDetails.jsx (Updated)
 import { useParams } from "react-router";
 import useApps from "../hooks/useApps";
 import { useState, useEffect } from "react";
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from "recharts";
+import {
+  BarChart,
+  Bar,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  ResponsiveContainer,
+} from "recharts";
 import { toast, Toaster } from "react-hot-toast";
 import { Star, Download, MessageCircle } from "lucide-react";
 
@@ -14,12 +21,16 @@ const AppDetails = () => {
   const app = apps.find((a) => a.id === parseInt(id));
 
   useEffect(() => {
-    const installedApps = JSON.parse(localStorage.getItem("installedApps") || "[]");
+    const installedApps = JSON.parse(
+      localStorage.getItem("installedApps") || "[]"
+    );
     setInstalled(installedApps.some((a) => a.id === parseInt(id)));
   }, [id]);
 
   const handleInstall = () => {
-    const installedApps = JSON.parse(localStorage.getItem("installedApps") || "[]");
+    const installedApps = JSON.parse(
+      localStorage.getItem("installedApps") || "[]"
+    );
     if (!installedApps.some((a) => a.id === app.id)) {
       installedApps.push(app);
       localStorage.setItem("installedApps", JSON.stringify(installedApps));
@@ -44,7 +55,11 @@ const AppDetails = () => {
         <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
           <div className="grid md:grid-cols-3 gap-8">
             <div className="flex justify-center">
-              <img src={app.image} alt={app.title} className="w-48 h-48 rounded-2xl shadow-md object-cover" />
+              <img
+                src={app.image}
+                alt={app.title}
+                className="w-48 h-48 rounded-2xl shadow-md object-cover"
+              />
             </div>
             <div className="md:col-span-2 space-y-6">
               <div>

@@ -4,11 +4,6 @@ import Header from "../Components/Header";
 import useApps from "../hooks/useApps";
 
 const Home = () => {
-  // const handleClick = (appId, appTitle) => {
-
-  //   console.log("ID:", appId);
-  //   navigate(`/AppDetails/${appId}`);
-  // };
   const { apps = [], loading, error } = useApps();
 
   const topProduct = apps.slice(0, 8);
@@ -25,9 +20,7 @@ const Home = () => {
 
       <div className="grid  gap-4 lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 p-5">
         {topProduct.map((product) => (
-          <AppCard key={product.id} product={product}>
-            {/* onClick={() => handleClick(app.id, app.title)} */}
-          </AppCard>
+          <AppCard key={product.id} product={product}></AppCard>
         ))}
       </div>
       <div className="flex justify-center mb-4">

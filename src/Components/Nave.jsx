@@ -58,7 +58,7 @@ const Nave = () => {
       <div className="navbar-end">
 
         <NavLink
-          to="https://github.com/MD-TASNEM"
+          to="https://github.com/MD-TASNEM/Assignment-8"
           className=" bg-gradient-to-r from-indigo-500 to-[#9F62F2]  p-2 rounded hover:-bg-linear-60 font-bold flex items-center text-white"
         ><FaGithub className="text-2xl mr-4" />
 

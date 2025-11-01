@@ -4,7 +4,7 @@
     "title": "NoteMaster",
     "companyName": "Ideas Inc.",
     "id": 1,
-    "description": "A minimal note-taking app with cloud sync.",
+    "description": "NoteMaster is a sleek, minimalist note-taking application designed for seamless productivity. With real-time cloud synchronization across all devices, you'll never lose a thought. Organize notes with color-coded tags, rich text formatting, and powerful search. Export to PDF or share instantly. Perfect for students, professionals, and creatives who value simplicity and reliability. Trusted by over 450K users worldwide.",
     "size": 25,
     "reviews": 1200,
     "ratingAvg": 4.5,
@@ -22,7 +22,7 @@
     "title": "FitTrack",
     "companyName": "Wellness Co.",
     "id": 2,
-    "description": "Track your workouts and progress.",
+    "description": "FitTrack empowers you to reach your fitness goals with precision tracking and personalized insights. Log workouts, monitor heart rate, analyze progress with beautiful graphs, and follow custom training plans. Syncs with wearables and supports strength, cardio, yoga, and HIIT. Join a global community of 320K+ active users and transform your health journey today.",
     "size": 40,
     "reviews": 800,
     "ratingAvg": 4.2,
@@ -40,7 +40,7 @@
     "title": "BudgetBuddy",
     "companyName": "FinanceLabs",
     "id": 3,
-    "description": "Personal finance manager with smart insights.",
+    "description": "Take control of your finances with BudgetBuddy — the intelligent personal finance manager. Automatically categorize expenses, set savings goals, receive smart spending alerts, and generate detailed reports. Supports multiple accounts, currencies, and investment tracking. Used by 210K+ users to save smarter and stress less about money.",
     "size": 18,
     "reviews": 450,
     "ratingAvg": 4.7,
@@ -58,7 +58,7 @@
     "title": "CookEasy",
     "companyName": "YummySoft",
     "id": 4,
-    "description": "Recipe app with step-by-step instructions.",
+    "description": "CookEasy brings gourmet cooking to your fingertips with thousands of chef-curated recipes. Follow step-by-step video guides, adjust servings automatically, create shopping lists, and save favorites. Discover dietary filters for vegan, keto, gluten-free, and more. Loved by 610K home cooks who believe great meals start with great tools.",
     "size": 55,
     "reviews": 1500,
     "ratingAvg": 4.6,
@@ -76,7 +76,7 @@
     "title": "TravelMate",
     "companyName": "JetSet",
     "id": 5,
-    "description": "Plan trips, itineraries and budgets.",
+    "description": "TravelMate is your all-in-one travel companion. Build detailed itineraries, book flights and hotels, manage budgets, and store documents offline. Get real-time flight alerts, currency conversion, and local recommendations. Used by 780K globetrotters to plan smarter, travel lighter, and make every journey unforgettable.",
     "size": 120,
     "reviews": 2000,
     "ratingAvg": 4.3,
@@ -94,7 +94,7 @@
     "title": "PhotoFlow",
     "companyName": "PixelLab",
     "id": 6,
-    "description": "Photo editor and collage maker.",
+    "description": "PhotoFlow transforms your photos into art. Edit with professional-grade tools: filters, layers, healing brush, and AI enhancements. Create stunning collages, add text overlays, and export in high resolution. Sync edits across devices. Trusted by 410K photographers and content creators for effortless creativity.",
     "size": 95,
     "reviews": 900,
     "ratingAvg": 4.1,
@@ -112,7 +112,7 @@
     "title": "LearnLang",
     "companyName": "EduSoft",
     "id": 7,
-    "description": "Language learning with bite-sized lessons.",
+    "description": "LearnLang makes language learning fun and effective with bite-sized, interactive lessons. Master vocabulary, grammar, and pronunciation through games, quizzes, and real conversations. AI-powered speech recognition gives instant feedback. Supports 25+ languages. Join 980K learners speaking confidently in weeks.",
     "size": 60,
     "reviews": 2300,
     "ratingAvg": 4.8,
@@ -130,7 +130,7 @@
     "title": "MeditateNow",
     "companyName": "CalmWorks",
     "id": 8,
-    "description": "Guided meditations and sleep stories.",
+    "description": "MeditateNow brings peace to your daily life with guided meditations, sleep stories, and breathing exercises. Reduce stress, improve focus, and sleep better with sessions from world-renowned mindfulness experts. Track progress and set reminders. Loved by 520K users seeking calm in a chaotic world.",
     "size": 28,
     "reviews": 1100,
     "ratingAvg": 4.4,
@@ -148,7 +148,7 @@
     "title": "StudyBuddy",
     "companyName": "CampusTech",
     "id": 9,
-    "description": "Flashcards, quizzes and study timers.",
+    "description": "StudyBuddy supercharges your learning with smart flashcards, timed quizzes, and Pomodoro study sessions. Create custom decks, track retention with spaced repetition, and compete on leaderboards. Sync across devices. Used by 150K students to ace exams and retain knowledge longer.",
     "size": 22,
     "reviews": 540,
     "ratingAvg": 4.0,
@@ -166,7 +166,7 @@
     "title": "WeatherPro",
     "companyName": "SkyView",
     "id": 10,
-    "description": "Accurate local weather and forecasts.",
+    "description": "WeatherPro delivers hyper-accurate local forecasts powered by advanced meteorology. View hourly, daily, and 15-day predictions with radar maps, severe weather alerts, and air quality index. Customize widgets and get sunrise/sunset times. Trusted by 300K daily users to plan with confidence.",
     "size": 30,
     "reviews": 900,
     "ratingAvg": 4.2,
@@ -184,7 +184,7 @@
     "title": "TaskFlow",
     "companyName": "OrganizeIt",
     "id": 11,
-    "description": "Kanban-style task manager for teams.",
+    "description": "TaskFlow is a powerful Kanban-style task manager built for teams and individuals. Visualize workflows with drag-and-drop boards, assign tasks, set deadlines, and track progress in real time. Integrates with calendars and Slack. Used by 95K teams to boost productivity and collaboration.",
     "size": 85,
     "reviews": 400,
     "ratingAvg": 3.9,
@@ -202,7 +202,7 @@
     "title": "NewsFlash",
     "companyName": "GlobalNews",
     "id": 12,
-    "description": "Curated headlines and in-depth stories.",
+    "description": "NewsFlash curates top headlines from trusted sources worldwide. Customize your feed by topic, region, or interest. Dive into in-depth stories, save articles offline, and enable fact-check alerts. Ad-free experience available. Followed by 260K informed readers staying ahead of the news cycle.",
     "size": 48,
     "reviews": 760,
     "ratingAvg": 4.0,
@@ -220,7 +220,7 @@
     "title": "FitMeal",
     "companyName": "HealthHub",
     "id": 13,
-    "description": "Healthy meal plans and calorie tracker.",
+    "description": "FitMeal helps you eat healthier with personalized meal plans and calorie tracking. Scan barcodes, log meals with voice or photo, and get nutrition breakdowns. Sync with fitness apps. Choose from 50+ diet types. Join 310K users building sustainable, delicious eating habits.",
     "size": 35,
     "reviews": 850,
     "ratingAvg": 4.3,
@@ -238,7 +238,7 @@
     "title": "RunTracker",
     "companyName": "StrideTech",
     "id": 14,
-    "description": "Track your running routes and performance.",
+    "description": "RunTracker is built for runners of all levels. Map routes with GPS, track pace, distance, and elevation. Get audio coaching, set goals, and analyze performance trends. Syncs with music and wearables. Join 275K runners pushing limits and celebrating every mile.",
     "size": 42,
     "reviews": 600,
     "ratingAvg": 4.2,
@@ -256,7 +256,7 @@
     "title": "MindJournal",
     "companyName": "InnerPeace",
     "id": 15,
-    "description": "Daily journaling and mood tracking.",
+    "description": "MindJournal combines daily journaling with mood tracking and gratitude prompts. Reflect with guided templates, visualize emotional patterns, and set wellness intentions. Private, encrypted, and beautifully designed. Used by 200K people to nurture mental clarity and emotional resilience every day.",
     "size": 27,
     "reviews": 500,
     "ratingAvg": 4.6,
@@ -274,7 +274,7 @@
     "title": "QuickScan",
     "companyName": "ScanPro",
     "id": 16,
-    "description": "Document scanner and PDF converter.",
+    "description": "QuickScan turns your phone into a powerful document scanner. Capture receipts, contracts, or notes in seconds. Auto-enhance, crop, and convert to searchable PDFs. Organize with folders and cloud backup. Export to email or apps. Trusted by 340K professionals for paperless efficiency.",
     "size": 38,
     "reviews": 720,
     "ratingAvg": 4.4,
@@ -292,7 +292,7 @@
     "title": "SleepWell",
     "companyName": "DreamSoft",
     "id": 17,
-    "description": "Sleep tracker and relaxation sounds.",
+    "description": "SleepWell helps you fall asleep faster and wake refreshed. Track sleep cycles with AI analysis, listen to soothing sounds, and follow bedtime routines. Get personalized insights and gentle wake-up alarms. Used by 290K users to improve sleep quality naturally and consistently.",
     "size": 32,
     "reviews": 680,
     "ratingAvg": 4.5,
@@ -310,7 +310,7 @@
     "title": "CryptoTrack",
     "companyName": "CoinAnalytics",
     "id": 18,
-    "description": "Track cryptocurrency prices and portfolio.",
+    "description": "CryptoTrack is your real-time crypto portfolio manager. Monitor 10,000+ coins, set price alerts, view charts, and track gains/losses. Secure wallet integration and tax reporting tools included. Used by 400K investors to make informed decisions in volatile markets.",
     "size": 50,
     "reviews": 900,
     "ratingAvg": 4.1,
@@ -328,7 +328,7 @@
     "title": "YogaFlow",
     "companyName": "ZenLife",
     "id": 19,
-    "description": "Yoga routines and flexibility training.",
+    "description": "YogaFlow offers studio-quality yoga classes anytime, anywhere. Follow expert-led sessions for flexibility, strength, or relaxation. Track progress, join challenges, and sync with health apps. From beginners to advanced — 360K yogis flow better with YogaFlow daily.",
     "size": 45,
     "reviews": 750,
     "ratingAvg": 4.6,
@@ -346,7 +346,7 @@
     "title": "LanguagePal",
     "companyName": "LinguaTech",
     "id": 20,
-    "description": "Interactive language practice and quizzes.",
+    "description": "LanguagePal connects you with native speakers for real-time conversation practice. Improve fluency with AI-corrected chats, cultural notes, and gamified lessons. Schedule 1-on-1 sessions or join group talks. 330K learners worldwide are speaking confidently thanks to authentic, daily practice.",
     "size": 55,
     "reviews": 820,
     "ratingAvg": 4.7,
@@ -357,6 +357,1806 @@
       { "name": "3 star", "count": 60 },
       { "name": "4 star", "count": 200 },
       { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "/hero.png",
+    "title": "HabitForge",
+    "companyName": "GrowEasy",
+    "id": 21,
+    "description": "HabitForge helps you build life-changing habits with science-backed tracking and reminders. Set goals, streak challenges, and get motivational nudges. Visualize progress with charts and celebrate milestones. Join 420K users transforming routines into results — one habit at a time.",
+    "size": 26,
+    "reviews": 980,
+    "ratingAvg": 4.6,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 600 }
+    ]
+  },
+  {
+    "image": "/playstore.png",
+    "title": "CodeSnap",
+    "companyName": "DevTools",
+    "id": 22,
+    "description": "CodeSnap is a pocket IDE for developers on the go. Write, run, and debug code in 20+ languages. Save snippets, collaborate in real time, and sync with GitHub. Perfect for learning, prototyping, or fixing bugs anywhere. Used by 180K coders worldwide.",
+    "size": 78,
+    "reviews": 620,
+    "ratingAvg": 4.3,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 95 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "VoiceMemo Pro",
+    "companyName": "AudioWave",
+    "id": 23,
+    "description": "VoiceMemo Pro captures crystal-clear voice recordings with AI transcription and noise cancellation. Tag, search, and organize memos effortlessly. Export as text or audio. Ideal for journalists, students, and meetings. Trusted by 290K professionals for accurate, instant documentation on the move.",
+    "size": 33,
+    "reviews": 740,
+    "ratingAvg": 4.5,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 425 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "PlantCare",
+    "companyName": "GreenThumb",
+    "id": 24,
+    "description": "PlantCare is your personal botanist. Identify plants with a photo, get care reminders, diagnose issues, and track growth. Build your digital garden and connect with plant lovers. Perfect for beginners and experts. 260K users growing greener homes with confidence.",
+    "size": 68,
+    "reviews": 890,
+    "ratingAvg": 4.7,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 230 },
+      { "name": "5 star", "count": 573 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "BookShelf",
+    "companyName": "LitMind",
+    "id": 25,
+    "description": "BookShelf is a beautiful reading tracker and discovery tool. Scan ISBNs, set reading goals, write reviews, and get personalized recommendations. Sync highlights and notes. Join reading challenges and clubs. 410K bookworms organizing their literary journey with elegance and insight.",
+    "size": 41,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 665 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "PetPal",
+    "companyName": "FurryFriends",
+    "id": 26,
+    "description": "PetPal helps you care for your furry companion. Track vet visits, vaccinations, feeding, and grooming. Get breed-specific tips, training videos, and emergency guides. Connect with local pet services. 310K pet parents ensuring happier, healthier lives for their animals.",
+    "size": 52,
+    "reviews": 920,
+    "ratingAvg": 4.8,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 608 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "TimeBlock",
+    "companyName": "FocusLab",
+    "id": 27,
+    "description": "TimeBlock revolutionizes time management with visual scheduling. Drag and drop tasks into color-coded blocks, set focus modes, and track productivity. Sync with calendars and get deep work insights. 280K professionals mastering their day with clarity and intention.",
+    "size": 36,
+    "reviews": 780,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 28 },
+      { "name": "3 star", "count": 85 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 425 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "DrawSpace",
+    "companyName": "Artify",
+    "id": 28,
+    "description": "DrawSpace is a digital canvas for artists and doodlers. Use realistic brushes, layers, symmetry tools, and animation frames. Export in 4K or share timelapses. Learn with tutorials and join community challenges. 350K creators bringing imagination to life daily.",
+    "size": 88,
+    "reviews": 1300,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 785 }
+    ]
+  },
+  {
+    "image": "/App-Error.png",
+    "title": "Evently",
+    "companyName": "Gatherly",
+    "id": 29,
+    "description": "Evently simplifies event planning. Create invites, manage RSVPs, sell tickets, and share updates. Use templates for weddings, parties, or conferences. Real-time guest chat and check-in tools. 240K organizers hosting memorable events with zero stress.",
+    "size": 59,
+    "reviews": 860,
+    "ratingAvg": 4.5,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 230 },
+      { "name": "5 star", "count": 517 }
+    ]
+  },
+  {
+    "image": "/logo.png",
+    "title": "MusicMind",
+    "companyName": "TuneLab",
+    "id": 30,
+    "description": "MusicMind helps you learn instruments faster. Follow interactive lessons, get real-time feedback on pitch and rhythm, and track practice streaks. Supports guitar, piano, violin, and more. 290K musicians improving daily with structured, joyful learning paths.",
+    "size": 72,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": 370000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 597 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "ShopSmart",
+    "companyName": "DealHunt",
+    "id": 31,
+    "description": "ShopSmart finds the best deals across 500+ stores. Compare prices, track price drops, and get cashback. Scan barcodes in-store for instant savings. Build wishlists and never miss a sale. 480K savvy shoppers saving thousands every year.",
+    "size": 44,
+    "reviews": 1400,
+    "ratingAvg": 4.5,
+    "downloads": 610000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 380 },
+      { "name": "5 star", "count": 835 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "BabyTrack",
+    "companyName": "ParentPlus",
+    "id": 32,
+    "description": "BabyTrack supports new parents with feeding, sleep, and diaper logs. Track growth milestones, store health records, and get age-based tips. Share access with caregivers. 220K families navigating parenthood with data, love, and peace of mind.",
+    "size": 39,
+    "reviews": 780,
+    "ratingAvg": 4.7,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 508 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "EcoLiving",
+    "companyName": "GreenPath",
+    "id": 33,
+    "description": "EcoLiving helps you reduce your carbon footprint. Track energy, water, and waste habits. Get personalized eco-challenges, calculate impact, and earn green points. Connect with local sustainability initiatives. 190K users building a healthier planet, one choice at a time.",
+    "size": 31,
+    "reviews": 650,
+    "ratingAvg": 4.6,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 393 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "VoiceTune",
+    "companyName": "SingPro",
+    "id": 34,
+    "description": "VoiceTune is your vocal coach in your pocket. Warm-ups, pitch training, and song practice with real-time feedback. Record, layer harmonies, and share covers. From shower singers to pros — 270K voices improving daily with fun and precision.",
+    "size": 66,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 525 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "HomeDesign 3D",
+    "companyName": "BuildVision",
+    "id": 35,
+    "description": "HomeDesign 3D lets you design, furnish, and decorate your dream home in stunning 3D. Drag-and-drop furniture, change materials, and walk through in AR. Save blueprints and share with contractors. 380K homeowners and designers bringing visions to life.",
+    "size": 110,
+    "reviews": 1200,
+    "ratingAvg": 4.4,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 695 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "MindMap Pro",
+    "companyName": "ThinkFlow",
+    "id": 36,
+    "description": "MindMap Pro turns ideas into visual masterpieces. Create unlimited mind maps with icons, links, and attachments. Collaborate in real time and export to presentations. Perfect for brainstorming, planning, and learning. 250K thinkers organizing complexity with clarity.",
+    "size": 54,
+    "reviews": 820,
+    "ratingAvg": 4.5,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 487 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "CycleSync",
+    "companyName": "LunaHealth",
+    "id": 37,
+    "description": "CycleSync empowers women with menstrual and fertility tracking. Predict cycles, log symptoms, and get hormone insights. Connect with ovulation tests and wearables. Educational content included. 340K users understanding their bodies better and living in sync.",
+    "size": 40,
+    "reviews": 980,
+    "ratingAvg": 4.7,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 633 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "PodcastHub",
+    "companyName": "AudioRealm",
+    "id": 38,
+    "description": "PodcastHub is your central station for audio storytelling. Discover, subscribe, and download episodes from millions of shows. Speed control, sleep timer, and offline mode. Create playlists and get smart recommendations. 520K listeners never missing a beat.",
+    "size": 48,
+    "reviews": 1600,
+    "ratingAvg": 4.6,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 1005 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "SkillShare",
+    "companyName": "LearnFast",
+    "id": 39,
+    "description": "SkillShare connects you with micro-courses taught by experts. Learn photography, coding, cooking, or design in 15-minute lessons. Track progress, earn certificates, and build portfolios. 460K lifelong learners upskilling daily with bite-sized, high-impact education.",
+    "size": 70,
+    "reviews": 1350,
+    "ratingAvg": 4.7,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 845 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "DreamJournal",
+    "companyName": "Submind",
+    "id": 40,
+    "description": "DreamJournal helps you record, analyze, and understand your dreams. Voice-to-text entry, tag recurring symbols, and explore lucid dreaming tools. Private and encrypted. 180K dreamers unlocking the mysteries of their subconscious every night.",
+    "size": 29,
+    "reviews": 610,
+    "ratingAvg": 4.5,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 347 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "FreelanceFlow",
+    "companyName": "GigWorks",
+    "id": 41,
+    "description": "FreelanceFlow streamlines your independent career. Track time, send invoices, manage clients, and file taxes. Win more gigs with proposal templates. Secure payments and contracts built-in. 310K freelancers running profitable, organized businesses with ease.",
+    "size": 56,
+    "reviews": 890,
+    "ratingAvg": 4.6,
+    "downloads": 370000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 537 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Stargaze",
+    "companyName": "CosmoView",
+    "id": 42,
+    "description": "Stargaze brings the universe to your screen. Identify stars, planets, and constellations with AR sky mapping. Get astronomy events, telescope control, and NASA updates. 290K stargazers exploring the cosmos from their backyard every clear night.",
+    "size": 82,
+    "reviews": 970,
+    "ratingAvg": 4.8,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 648 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "VinylVault",
+    "companyName": "RecordRoom",
+    "id": 43,
+    "description": "VinylVault catalogs your record collection with style. Scan covers, track play history, and discover pressing details. Connect with collectors, trade, and attend virtual listening parties. 140K vinyl enthusiasts preserving and sharing analog love digitally.",
+    "size": 47,
+    "reviews": 580,
+    "ratingAvg": 4.7,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 353 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "BrewMaster",
+    "companyName": "CraftCup",
+    "id": 44,
+    "description": "BrewMaster guides home brewers to perfection. Log recipes, track fermentation, and get timing alerts. Explore 10,000+ beer styles and ingredient pairings. Share with the community. 210K brewers crafting award-winning batches in garages worldwide.",
+    "size": 64,
+    "reviews": 760,
+    "ratingAvg": 4.6,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 457 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "PoetryPen",
+    "companyName": "VerseFlow",
+    "id": 45,
+    "description": "PoetryPen is a sanctuary for poets. Write, rhyme, and refine with meter tools and inspiration prompts. Publish to a supportive community, enter contests, and build anthologies. 160K poets finding their voice and connecting through words.",
+    "size": 38,
+    "reviews": 690,
+    "ratingAvg": 4.8,
+    "downloads": 230000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 443 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "ChessMate",
+    "companyName": "Grandmaster",
+    "id": 46,
+    "description": "ChessMate elevates your game with AI opponents, puzzles, and video lessons. Analyze moves, track ELO, and play online tournaments. From beginner to master — 450K players sharpening strategy and enjoying the royal game daily.",
+    "size": 55,
+    "reviews": 1250,
+    "ratingAvg": 4.7,
+    "downloads": 570000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 340 },
+      { "name": "5 star", "count": 765 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "GardenPlan",
+    "companyName": "BloomTech",
+    "id": 47,
+    "description": "GardenPlan designs your perfect outdoor space. Map plots, choose plants by climate, and get seasonal care schedules. AR preview and companion planting tips included. 230K gardeners growing bountiful harvests and beautiful landscapes with confidence.",
+    "size": 71,
+    "reviews": 840,
+    "ratingAvg": 4.6,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 512 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "MemoryLane",
+    "companyName": "TimeCapsule",
+    "id": 48,
+    "description": "MemoryLane preserves your life's moments. Auto-organize photos by date and face, create timeline stories, and print photo books. Private sharing with family. 380K users turning fleeting memories into lasting digital heirlooms with love and care.",
+    "size": 68,
+    "reviews": 1020,
+    "ratingAvg": 4.8,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 663 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "InvestWise",
+    "companyName": "WealthPath",
+    "id": 49,
+    "description": "InvestWise simplifies investing for everyone. Learn stocks, ETFs, and crypto with simulations. Track portfolios, get analyst insights, and set risk-based goals. 420K new investors building wealth with education, not guesswork, every single day.",
+    "size": 62,
+    "reviews": 1150,
+    "ratingAvg": 4.5,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 675 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "ZenGarden",
+    "companyName": "SerenitySoft",
+    "id": 50,
+    "description": "ZenGarden is your digital escape. Tend to a virtual Japanese rock garden, listen to ambient sounds, and practice mindfulness. Customize layouts and unlock new elements with daily care. 260K users finding peace in pixels, one rake at a time.",
+    "size": 45,
+    "reviews": 790,
+    "ratingAvg": 4.7,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 55 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 513 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "CodeCamp",
+    "companyName": "DevYouth",
+    "id": 51,
+    "description": "CodeCamp teaches kids to code through games and stories. Learn block-based and text coding with fun projects: apps, games, animations. Parent dashboards included. 330K young coders building the future, one line at a time.",
+    "size": 78,
+    "reviews": 980,
+    "ratingAvg": 4.8,
+    "downloads": 430000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 658 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "WineNotes",
+    "companyName": "VinoLog",
+    "id": 52,
+    "description": "WineNotes is your personal sommelier. Scan labels, rate wines, and build a tasting journal. Get food pairings, cellar tracking, and market values. Connect with wineries and events. 190K oenophiles savoring every sip with knowledge and passion.",
+    "size": 58,
+    "reviews": 720,
+    "ratingAvg": 4.6,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 65 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 434 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "StoryCraft",
+    "companyName": "TaleSpinner",
+    "id": 53,
+    "description": "StoryCraft helps writers outline, draft, and publish stories. Use AI prompts, character builders, and world maps. Track word counts and deadlines. Share with beta readers. 240K authors turning ideas into published novels with structure and inspiration.",
+    "size": 66,
+    "reviews": 860,
+    "ratingAvg": 4.7,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 543 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "BirdSong",
+    "companyName": "NatureCall",
+    "id": 54,
+    "description": "BirdSong identifies birds by sight and sound. Record songs, get instant species matches, and build life lists. Explore local hotspots and migration maps. 210K birdwatchers connecting with nature through technology and wonder in every chirp.",
+    "size": 74,
+    "reviews": 810,
+    "ratingAvg": 4.8,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 528 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "FitFamily",
+    "companyName": "ActiveTribe",
+    "id": 55,
+    "description": "FitFamily gets the whole family moving. Create group challenges, track steps, and earn rewards together. Kid-friendly workouts, parent controls, and progress sharing. 280K families building healthy habits and stronger bonds through fun and play.",
+    "size": 52,
+    "reviews": 920,
+    "ratingAvg": 4.6,
+    "downloads": 360000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 572 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "ArtGallery",
+    "companyName": "Museo",
+    "id": 56,
+    "description": "ArtGallery brings world-class museums to your phone. Explore 8K artworks, virtual tours, and audio guides. Curate personal collections and follow artists. Learn art history interactively. 350K art lovers experiencing culture without leaving home.",
+    "size": 88,
+    "reviews": 1100,
+    "ratingAvg": 4.7,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 682 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "MealPrep Pro",
+    "companyName": "KitchenSync",
+    "id": 57,
+    "description": "MealPrep Pro plans, shops, and cooks your week in advance. Generate recipes from pantry items, scale servings, and auto-create grocery lists. Video tutorials and storage tips. 390K home chefs saving time, money, and stress every Sunday.",
+    "size": 60,
+    "reviews": 1180,
+    "ratingAvg": 4.6,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 713 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "StarLog",
+    "companyName": "SpaceDiary",
+    "id": 58,
+    "description": "StarLog is your personal space mission journal. Track ISS sightings, log observations, and follow NASA/ESA missions. AR planet finder and event calendar. 180K space enthusiasts documenting their journey through the final frontier nightly.",
+    "size": 69,
+    "reviews": 740,
+    "ratingAvg": 4.7,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 463 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "GratitudeNow",
+    "companyName": "ThankfulHeart",
+    "id": 59,
+    "description": "GratitudeNow cultivates daily thankfulness. Write entries, add photos, and reflect with prompts. Track mood patterns and share privately. Science-backed for happiness. 410K users shifting perspective and finding joy in the little things every day.",
+    "size": 34,
+    "reviews": 1050,
+    "ratingAvg": 4.8,
+    "downloads": 490000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 270 },
+      { "name": "5 star", "count": 708 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "Runes & Rituals",
+    "companyName": "MysticPath",
+    "id": 60,
+    "description": "Runes & Rituals explores ancient divination and mindfulness practices. Cast runes, read tarot, journal intentions, and follow moon phases. Learn symbolism and history. 220K seekers connecting with inner wisdom and spiritual traditions daily.",
+    "size": 76,
+    "reviews": 880,
+    "ratingAvg": 4.6,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 75 },
+      { "name": "4 star", "count": 230 },
+      { "name": "5 star", "count": 542 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "PuzzleMind",
+    "companyName": "BrainGames Inc.",
+    "id": 61,
+    "description": "PuzzleMind offers thousands of brain-teasing puzzles to sharpen your mind. From sudoku and crosswords to logic puzzles and memory games, challenge yourself daily and track your cognitive progress. 280K puzzle enthusiasts keeping their minds sharp.",
+    "size": 42,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 320000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "CarCare Pro",
+    "companyName": "AutoTech",
+    "id": 62,
+    "description": "CarCare Pro helps you maintain your vehicle like a pro. Track service history, get maintenance reminders, diagnose issues with OBD2 integration, and find trusted mechanics. 190K car owners saving on repairs and extending vehicle life.",
+    "size": 58,
+    "reviews": 670,
+    "ratingAvg": 4.4,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 325 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "InteriorDesign AR",
+    "companyName": "HomeStyle",
+    "id": 63,
+    "description": "Visualize furniture and decor in your space using augmented reality. Take photos of your room and place virtual furniture to see how it looks before buying. 310K homeowners designing their perfect spaces.",
+    "size": 95,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 565 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "FluentSpeak",
+    "companyName": "LanguageMasters",
+    "id": 64,
+    "description": "Master conversational skills in 30+ languages with AI-powered speaking practice. Get instant feedback on pronunciation and engage in realistic dialogues. 270K language learners speaking confidently.",
+    "size": 72,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 565 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "SolarTrack",
+    "companyName": "EcoEnergy",
+    "id": 65,
+    "description": "Monitor your solar panel performance in real-time. Track energy production, consumption, and savings. Get weather-based predictions and maintenance alerts. 140K solar users maximizing their green energy investment.",
+    "size": 38,
+    "reviews": 520,
+    "ratingAvg": 4.5,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 283 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "GenealogyTree",
+    "companyName": "FamilyRoots",
+    "id": 66,
+    "description": "Build your family tree with historical records and DNA matching. Connect with relatives, discover ancestors, and preserve family stories. 320K genealogists uncovering their heritage.",
+    "size": 85,
+    "reviews": 1200,
+    "ratingAvg": 4.8,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 760 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "MixMaster DJ",
+    "companyName": "BeatLab",
+    "id": 67,
+    "description": "Professional DJ software for mobile devices. Mix tracks, apply effects, and create seamless transitions. Perfect for parties and practicing DJ skills. 210K aspiring DJs creating amazing mixes.",
+    "size": 110,
+    "reviews": 780,
+    "ratingAvg": 4.3,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Aquarium Guide",
+    "companyName": "AquaLife",
+    "id": 68,
+    "description": "Your complete aquarium companion. Get fish compatibility info, water parameter tracking, feeding schedules, and disease diagnosis. 180K aquarists maintaining healthy underwater ecosystems.",
+    "size": 47,
+    "reviews": 630,
+    "ratingAvg": 4.6,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 347 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "AstroPhotography",
+    "companyName": "StarShoot",
+    "id": 69,
+    "description": "Capture stunning photos of stars, planets, and galaxies with your smartphone. Long exposure controls, star tracking, and editing tools included. 150K astrophotographers shooting the cosmos.",
+    "size": 68,
+    "reviews": 540,
+    "ratingAvg": 4.4,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 245 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "LegalEase",
+    "companyName": "LawHelper",
+    "id": 70,
+    "description": "Create legal documents, understand your rights, and find qualified attorneys. Templates for contracts, wills, and rental agreements. 290K users navigating legal matters with confidence.",
+    "size": 52,
+    "reviews": 890,
+    "ratingAvg": 4.5,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "KnittingCompanion",
+    "companyName": "CraftyHands",
+    "id": 71,
+    "description": "Digital knitting patterns, row counter, yarn calculator, and project tracker. Learn new stitches with video tutorials. 120K knitters creating beautiful handmade items.",
+    "size": 41,
+    "reviews": 480,
+    "ratingAvg": 4.7,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 268 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "PublicSpeaking Coach",
+    "companyName": "ConfidentVoice",
+    "id": 72,
+    "description": "Overcome stage fright and master public speaking. Practice with AI audience, get feedback on pace and tone, and access speech templates. 230K speakers gaining confidence.",
+    "size": 56,
+    "reviews": 710,
+    "ratingAvg": 4.6,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "MushroomID",
+    "companyName": "ForestForage",
+    "id": 73,
+    "description": "Identify mushrooms with AI photo recognition. Learn about edible and poisonous species, foraging tips, and cooking recipes. 95K foragers exploring safely.",
+    "size": 63,
+    "reviews": 420,
+    "ratingAvg": 4.8,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 252 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "HomeInventory",
+    "companyName": "SmartHome Manager",
+    "id": 74,
+    "description": "Catalog your possessions for insurance purposes. Scan barcodes, take photos, and store purchase information. 180K homeowners organized and prepared.",
+    "size": 37,
+    "reviews": 580,
+    "ratingAvg": 4.4,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 263 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "CalligraphyMaster",
+    "companyName": "ArtScript",
+    "id": 75,
+    "description": "Learn beautiful handwriting and calligraphy. Interactive lessons, practice sheets, and digital ink simulation. 160K artists mastering the art of writing.",
+    "size": 49,
+    "reviews": 520,
+    "ratingAvg": 4.5,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 257 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "TideTracker",
+    "companyName": "MarinePro",
+    "id": 76,
+    "description": "Accurate tide predictions for fishing, surfing, and boating. Global coverage with moon phases and weather integration. 270K marine enthusiasts planning perfect outings.",
+    "size": 32,
+    "reviews": 690,
+    "ratingAvg": 4.6,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 362 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "CoinCollector",
+    "companyName": "Numista",
+    "id": 77,
+    "description": "Catalog and value your coin collection. Identify coins by photo, track market values, and connect with collectors worldwide. 110K numismatists preserving history.",
+    "size": 58,
+    "reviews": 380,
+    "ratingAvg": 4.7,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 208 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "FirstAid Guide",
+    "companyName": "SafetyFirst",
+    "id": 78,
+    "description": "Emergency medical instructions for common situations. Step-by-step guides, emergency contact storage, and CPR tutorials. 340K users prepared for emergencies.",
+    "size": 45,
+    "reviews": 920,
+    "ratingAvg": 4.8,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 593 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Greenhouse Manager",
+    "companyName": "GardenTech",
+    "id": 79,
+    "description": "Monitor and control your greenhouse environment. Track temperature, humidity, and automate watering systems. 85K gardeners optimizing plant growth.",
+    "size": 67,
+    "reviews": 310,
+    "ratingAvg": 4.4,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 127 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "SpeedReading Pro",
+    "companyName": "ReadFast",
+    "id": 80,
+    "description": "Double your reading speed with proven techniques. Interactive exercises, progress tracking, and comprehension tests. 290K readers consuming information faster.",
+    "size": 39,
+    "reviews": 780,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 240 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Bartender's Guide",
+    "companyName": "Mixology Lab",
+    "id": 81,
+    "description": "Thousands of cocktail recipes with step-by-step instructions. Inventory management, shopping lists, and party planning tools. 220K mixologists shaking up perfect drinks.",
+    "size": 53,
+    "reviews": 640,
+    "ratingAvg": 4.6,
+    "downloads": 280000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 332 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Sleep Stories",
+    "companyName": "DreamWeaver",
+    "id": 82,
+    "description": "Fall asleep to soothing bedtime stories for adults. Professional narration, ambient sounds, and sleep tracking. 410K users sleeping better nightly.",
+    "size": 88,
+    "reviews": 1250,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 765 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "VolunteerConnect",
+    "companyName": "CommunityHub",
+    "id": 83,
+    "description": "Find local volunteering opportunities matching your skills and interests. Track hours, build resume, and make impact. 180K volunteers serving their communities.",
+    "size": 44,
+    "reviews": 590,
+    "ratingAvg": 4.8,
+    "downloads": 230000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 180 },
+      { "name": "5 star", "count": 348 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Personal Shopper AI",
+    "companyName": "StyleGenius",
+    "id": 84,
+    "description": "AI-powered fashion advisor that suggests outfits based on your body type, wardrobe, and occasion. Virtual try-on and style tips. 250K users dressing with confidence.",
+    "size": 76,
+    "reviews": 830,
+    "ratingAvg": 4.4,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 385 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Beekeeper's Journal",
+    "companyName": "ApiaryTech",
+    "id": 85,
+    "description": "Track hive health, honey production, and bee behavior. Weather integration and pest management guidance. 65K beekeepers supporting pollinators.",
+    "size": 41,
+    "reviews": 280,
+    "ratingAvg": 4.7,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 80 },
+      { "name": "5 star", "count": 152 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "Memory Palace",
+    "companyName": "Mnemonic Labs",
+    "id": 86,
+    "description": "Master the ancient memory palace technique. Remember names, numbers, and information with visual association exercises. 170K users boosting their memory power.",
+    "size": 36,
+    "reviews": 470,
+    "ratingAvg": 4.5,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 227 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "CarpentryCalc",
+    "companyName": "WoodWorks",
+    "id": 87,
+    "description": "Essential calculators for woodworking projects. Material estimates, angle calculations, and project planning tools. 140K carpenters and DIYers building precisely.",
+    "size": 29,
+    "reviews": 420,
+    "ratingAvg": 4.6,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 130 },
+      { "name": "5 star", "count": 213 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Ancestral Recipes",
+    "companyName": "FamilyKitchen",
+    "id": 88,
+    "description": "Preserve and share family recipes across generations. Convert old measurements, add photos, and create cookbooks. 190K families saving culinary heritage.",
+    "size": 47,
+    "reviews": 550,
+    "ratingAvg": 4.8,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 160 },
+      { "name": "5 star", "count": 337 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "UrbanGardening",
+    "companyName": "CityGreens",
+    "id": 89,
+    "description": "Grow food in small spaces. Container gardening guides, plant care reminders, and community sharing. 220K urban farmers growing fresh produce.",
+    "size": 52,
+    "reviews": 680,
+    "ratingAvg": 4.5,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 210 },
+      { "name": "5 star", "count": 343 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "Morse Code Tutor",
+    "companyName": "SignalPro",
+    "id": 90,
+    "description": "Learn Morse code through interactive lessons and practice. Send and decode messages with light and sound signals. 75K radio enthusiasts and survivalists.",
+    "size": 33,
+    "reviews": 290,
+    "ratingAvg": 4.4,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 123 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "Personal Historian",
+    "companyName": "LifeStories",
+    "id": 91,
+    "description": "Document your life story with guided prompts and timeline creation. Add photos, audio recordings, and share with family. 130K users preserving their legacy.",
+    "size": 61,
+    "reviews": 380,
+    "ratingAvg": 4.7,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 208 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "WaterQuality Monitor",
+    "companyName": "AquaCheck",
+    "id": 92,
+    "description": "Test and track water quality parameters. pH, hardness, chlorine levels with smart device integration. 95K pool owners and aquarium keepers.",
+    "size": 44,
+    "reviews": 320,
+    "ratingAvg": 4.3,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 122 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Virtual Piano Tutor",
+    "companyName": "MusicMentor",
+    "id": 93,
+    "description": "Learn piano with interactive sheet music and real-time feedback. Courses for beginners to advanced players. 280K musicians developing their skills.",
+    "size": 102,
+    "reviews": 940,
+    "ratingAvg": 4.6,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 505 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Crisis Preparedness",
+    "companyName": "EmergencyReady",
+    "id": 94,
+    "description": "Prepare for natural disasters and emergencies. Checklists, supply tracking, and emergency plans for families. 310K users ready for anything.",
+    "size": 55,
+    "reviews": 780,
+    "ratingAvg": 4.8,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 483 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "ColorBlind Assistant",
+    "companyName": "VisionAid",
+    "id": 95,
+    "description": "Help for colorblind users to identify colors in real-time. Color naming, pattern recognition, and accessibility features. 120K users seeing colors clearly.",
+    "size": 38,
+    "reviews": 450,
+    "ratingAvg": 4.9,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 25 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 292 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "Fermentation Station",
+    "companyName": "KrautLab",
+    "id": 96,
+    "description": "Complete guide to fermenting foods. Recipes for sauerkraut, kimchi, kombucha with timers and troubleshooting. 105K fermenters creating probiotic foods.",
+    "size": 49,
+    "reviews": 360,
+    "ratingAvg": 4.6,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 110 },
+      { "name": "5 star", "count": 173 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "BirdFeeder Cam",
+    "companyName": "NatureWatch",
+    "id": 97,
+    "description": "Turn your phone into a bird feeder camera with motion detection. Identify visitors and track feeding patterns. 88K bird lovers observing wildlife.",
+    "size": 72,
+    "reviews": 290,
+    "ratingAvg": 4.4,
+    "downloads": 110000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 117 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Personal Finance for Kids",
+    "companyName": "MoneySmart Kids",
+    "id": 98,
+    "description": "Teach children about money management through games and chores. Allowance tracking and savings goals. 190K families raising financially literate kids.",
+    "size": 58,
+    "reviews": 520,
+    "ratingAvg": 4.7,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 45 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 298 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Sun Exposure Tracker",
+    "companyName": "SunSafe",
+    "id": 99,
+    "description": "Monitor UV exposure and get sun protection reminders. Skin type analysis and vitamin D tracking. 240K users staying sun-safe.",
+    "size": 41,
+    "reviews": 610,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 190 },
+      { "name": "5 star", "count": 295 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Gene Therapy Guide",
+    "companyName": "HealthScience",
+    "id": 100,
+    "description": "Educational resource about genetic conditions and treatments. Family history tracking and research updates. 75K users understanding genetic health.",
+    "size": 67,
+    "reviews": 280,
+    "ratingAvg": 4.6,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 137 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Antique Identifier",
+    "companyName": "VintageFind",
+    "id": 101,
+    "description": "Identify and value antiques with AI image recognition. Historical information and collector community. 135K antique hunters discovering treasures.",
+    "size": 74,
+    "reviews": 420,
+    "ratingAvg": 4.4,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 140 },
+      { "name": "5 star", "count": 153 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Coding Interview Prep",
+    "companyName": "TechInterview",
+    "id": 102,
+    "description": "Practice coding problems and system design questions. Mock interviews with AI feedback and company-specific prep. 320K developers landing dream jobs.",
+    "size": 89,
+    "reviews": 1100,
+    "ratingAvg": 4.7,
+    "downloads": 470000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 625 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "Mythology Encyclopedia",
+    "companyName": "AncientLore",
+    "id": 103,
+    "description": "Comprehensive guide to world mythologies. Gods, heroes, and stories from different cultures with interactive maps. 155K mythology enthusiasts exploring ancient tales.",
+    "size": 112,
+    "reviews": 480,
+    "ratingAvg": 4.8,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 268 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Personal Air Quality",
+    "companyName": "BreatheEasy",
+    "id": 104,
+    "description": "Monitor indoor and outdoor air quality. Pollen alerts, pollution maps, and health recommendations. 280K users breathing cleaner air.",
+    "size": 53,
+    "reviews": 720,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 230 },
+      { "name": "5 star", "count": 345 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Virtual Reality Meditation",
+    "companyName": "ZenVR",
+    "id": 105,
+    "description": "Immersive meditation experiences in virtual environments. Guided sessions in peaceful natural settings. 130K users achieving deeper meditation.",
+    "size": 245,
+    "reviews": 380,
+    "ratingAvg": 4.6,
+    "downloads": 170000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 177 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Sustainable Fashion",
+    "companyName": "EcoStyle",
+    "id": 106,
+    "description": "Find ethical clothing brands and learn about sustainable fashion. Material guides and carbon footprint calculator. 95K conscious consumers dressing responsibly.",
+    "size": 46,
+    "reviews": 320,
+    "ratingAvg": 4.7,
+    "downloads": 130000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 163 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "Cave Exploration Guide",
+    "companyName": "Spelunker Pro",
+    "id": 107,
+    "description": "Safety guide and mapping tool for cave explorers. Rope work tutorials, equipment checklist, and cave database. 42K adventurers exploring safely underground.",
+    "size": 78,
+    "reviews": 190,
+    "ratingAvg": 4.8,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 8 },
+      { "name": "3 star", "count": 20 },
+      { "name": "4 star", "count": 60 },
+      { "name": "5 star", "count": 97 }
+    ]
+  },
+  {
+    "image": "/demo-app (1).webp",
+    "title": "Personalized Nutrition",
+    "companyName": "DNADiet",
+    "id": 108,
+    "description": "Nutrition plans based on DNA analysis and health goals. Food intolerance tracking and supplement recommendations. 180K users eating for their genetics.",
+    "size": 83,
+    "reviews": 540,
+    "ratingAvg": 4.5,
+    "downloads": 240000,
+    "ratings": [
+      { "name": "1 star", "count": 22 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 170 },
+      { "name": "5 star", "count": 243 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "Virtual Museum Tours",
+    "companyName": "CultureConnect",
+    "id": 109,
+    "description": "Explore world-class museums from home. 360-degree tours, artifact information, and curator insights. 410K art and history lovers exploring globally.",
+    "size": 156,
+    "reviews": 890,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 485 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Mindful Eating Coach",
+    "companyName": "ConsciousBite",
+    "id": 110,
+    "description": "Develop healthy eating habits through mindfulness. Hunger scale tracking, eating pace monitoring, and emotional eating support. 160K users transforming their relationship with food.",
+    "size": 49,
+    "reviews": 470,
+    "ratingAvg": 4.6,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 18 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 227 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Urban Farming Map",
+    "companyName": "CityHarvest",
+    "id": 111,
+    "description": "Find community gardens, farmers markets, and urban farms in your area. Share produce and connect with local growers. 120K users participating in local food systems.",
+    "size": 57,
+    "reviews": 380,
+    "ratingAvg": 4.8,
+    "downloads": 160000,
+    "ratings": [
+      { "name": "1 star", "count": 8 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 35 },
+      { "name": "4 star", "count": 120 },
+      { "name": "5 star", "count": 207 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Personalized Learning Path",
+    "companyName": "SkillJourney",
+    "id": 112,
+    "description": "AI-generated learning plans based on your goals and current knowledge. Progress tracking and adaptive content. 230K lifelong learners achieving their goals.",
+    "size": 68,
+    "reviews": 610,
+    "ratingAvg": 4.5,
+    "downloads": 290000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 265 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "Virtual Star Party",
+    "companyName": "CosmosConnect",
+    "id": 113,
+    "description": "Join live astronomy events and virtual telescope sessions. Chat with astronomers and explore space with experts. 88K space enthusiasts connecting globally.",
+    "size": 94,
+    "reviews": 290,
+    "ratingAvg": 4.7,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 90 },
+      { "name": "5 star", "count": 138 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Digital Detox Coach",
+    "companyName": "MindfulTech",
+    "id": 114,
+    "description": "Reduce screen time and build healthier digital habits. Usage tracking, focus modes, and mindfulness reminders. 270K users reclaiming their attention.",
+    "size": 42,
+    "reviews": 730,
+    "ratingAvg": 4.4,
+    "downloads": 330000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 220 },
+      { "name": "5 star", "count": 325 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Personal Weather Station",
+    "companyName": "MicroClimate",
+    "id": 115,
+    "description": "Connect your personal weather sensors and share data with community. Hyper-local forecasts and climate tracking. 75K weather enthusiasts contributing data.",
+    "size": 59,
+    "reviews": 320,
+    "ratingAvg": 4.6,
+    "downloads": 100000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 100 },
+      { "name": "5 star", "count": 143 }
+    ]
+  },
+  {
+    "image": "/demo-app (2).webp",
+    "title": "Cultural Etiquette Guide",
+    "companyName": "GlobalManners",
+    "id": 116,
+    "description": "Learn business and social customs for different cultures. Greeting styles, dining etiquette, and communication tips. 145K travelers and business professionals connecting respectfully.",
+    "size": 71,
+    "reviews": 420,
+    "ratingAvg": 4.7,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 12 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 130 },
+      { "name": "5 star", "count": 228 }
+    ]
+  },
+  {
+    "image": "/demo-app (3).webp",
+    "title": "Home Energy Auditor",
+    "companyName": "EcoHome",
+    "id": 117,
+    "description": "Identify energy waste in your home and get improvement recommendations. Utility bill analysis and savings projections. 160K homeowners saving energy and money.",
+    "size": 63,
+    "reviews": 480,
+    "ratingAvg": 4.5,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 205 }
+    ]
+  },
+  {
+    "image": "/demo-app (4).webp",
+    "title": "Virtual Book Club",
+    "companyName": "ReadTogether",
+    "id": 118,
+    "description": "Join or create book clubs with reading schedules and discussion guides. Author interviews and community features. 280K readers sharing literary experiences.",
+    "size": 55,
+    "reviews": 670,
+    "ratingAvg": 4.8,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 12 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 50 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 393 }
+    ]
+  },
+  {
+    "image": "/demo-app (5).webp",
+    "title": "Personal Safety Alarm",
+    "companyName": "SafeSignal",
+    "id": 119,
+    "description": "Emergency alert system with location sharing and loud alarm. Trusted contacts and safety check-ins. 410K users feeling safer daily.",
+    "size": 38,
+    "reviews": 890,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 18 },
+      { "name": "2 star", "count": 22 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "/demo-app (6).webp",
+    "title": "AI Writing Assistant",
+    "companyName": "WordCraft AI",
+    "id": 120,
+    "description": "Enhance your writing with AI-powered suggestions for clarity, tone, and grammar. Templates for various writing types. 350K writers improving their craft.",
+    "size": 82,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 585 }
     ]
   }
 ]

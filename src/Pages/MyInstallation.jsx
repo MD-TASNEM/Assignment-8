@@ -62,32 +62,42 @@ const MyInstallation = () => {
           </select>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 gap-6">
           {installedApps.map((app) => (
             <div
               key={app.id}
               className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-xl transition-shadow"
             >
-              <img
-                src={app.image}
-                alt={app.title}
-                className="w-full h-40 object-cover"
-              />
-              <div className="p-4">
-                <h3 className="font-semibold text-lg truncate">{app.title}</h3>
-                <p className="text-sm text-gray-600">{app.companyName}</p>
-                <div className="flex justify-between items-center mt-3">
-                  <span className="text-xs text-gray-500">
-                    {app.downloads.toLocaleString()} downloads
-                  </span>
-                  <button
-                    onClick={() => handleUninstall(app.id, app.title)}
-                    className="text-red-600 hover:text-red-800 transition"
-                  >
-                    <Trash2 className="w-5 h-5" />
-                  </button>
+              <div className="flex flex-row justify-between items-center p-4">
+                <div className="flex flex-row">
+                  <div>
+                    <img
+                      src={app.image}
+                      alt={app.title}
+                      className="w-full h-40 object-cover"
+                    />
+                  </div>
+                  <div className="p-4">
+                    <h3 className="font-semibold text-lg truncate">
+                      {app.title}
+                    </h3>
+                    <p className="text-sm text-gray-600">{app.companyName}</p>
+                    <div className="flex justify-between items-center mt-3">
+                      <span className="text-xs text-gray-500">
+                        {app.downloads.toLocaleString()} downloads
+                      </span>
+                    </div>
+                  </div>
+                  <div></div>
                 </div>
+                <button
+                onClick={() => handleUninstall(app.id, app.title)}
+                className="text-red-600 hover:text-red-800 transition"
+              >
+                <Trash2 className="w-15 h-15" />
+              </button>
               </div>
+
             </div>
           ))}
         </div>
